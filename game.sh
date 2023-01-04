@@ -1,0 +1,3 @@
+ball
+bat
+rings
